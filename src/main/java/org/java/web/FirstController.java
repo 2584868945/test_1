@@ -12,6 +12,6 @@ public class FirstController {
 
     @RequestMapping("/init")
     public String init(){
-        return "hello,world";
+        return "hello,world------";
     }
 }
